@@ -21,5 +21,5 @@ Die Simulation wird schrittweise in der Konsole dargestellt und entwickelt sich 
 
 ->
 
-<img width="520" height="918" alt="{BA5D46D7-01CE-44BF-921C-9728FC6BF54F}" src="https://github.com/user-attachments/assets/9260bf9d-12a9-42e6-b875-d7713a7e58a7" />
+<img width="520" height="500" alt="{BA5D46D7-01CE-44BF-921C-9728FC6BF54F}" src="https://github.com/user-attachments/assets/9260bf9d-12a9-42e6-b875-d7713a7e58a7" />
 
