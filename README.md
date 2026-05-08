@@ -12,3 +12,4 @@ Das Programm durchläuft dabei das gesamte Spielfeld ähnlich wie ein Filter in 
 Zusätzlich ist das Spielfeld als „wrap-around“ umgesetzt, wodurch die Ränder miteinander verbunden sind und ein endloses, durchlaufendes Feld entsteht.
 
 Die Simulation wird schrittweise in der Konsole dargestellt und entwickelt sich mit jeder Eingabe weiter.
+<img width="975" height="674" alt="{05498D9B-A787-435B-9DE4-300374557C79}" src="https://github.com/user-attachments/assets/f7934245-e810-4cdc-b631-de03fe0c688f" />
